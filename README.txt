@@ -1,0 +1,1 @@
+This is the MSDS 7331 Lab 1 Git repo, currently in sandbox state. Will revise structure once project officially kicks off.
